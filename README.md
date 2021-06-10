@@ -3,7 +3,7 @@ Desenvolvido por alunos da FATEC de Pompéia, esse projeto busca desenvolver sol
 <br/><br/>
 
 # Wiki
-Para maiores informações como participantes, ferramentas e documentos utilizados como auxílio no desenvolvimento do projeto:
+Para maiores informações como participantes, materiais e métodos, e documentos utilizados no auxílio do desenvolvimento do projeto:
 
 [Wiki](https://github.com/RafaelZanette/Projeto-integrador-2021-IoT-/wiki)
 <br><br>
