@@ -8,8 +8,14 @@ Para maiores informações como participantes, materiais e métodos, e documento
 [Wiki](https://github.com/RafaelZanette/Projeto-integrador-2021-IoT-/wiki)
 <br><br>
 
+# Imagens
+Através dos links abaixo, é possível acessar a imagens do projeto:
+
+[Circuito IoT no TinkerCad](https://i.ibb.co/vk76gbp/Circuito-Io-T-do-Trap-Boar.jpg)
+<br><br>
+
 # Vídeos apresentativos
-Através desses links é possível assisitir a vídeos sobre o nosso projeto:
+Através dos links abaixo, é possível acessar a vídeos do projeto:
 
 [Vídeo 1](https://youtu.be/t1twpuSwsmI)
 <br><br>
